@@ -1,7 +1,7 @@
 # text-analysis-president-bollinger
 <h3>Conducting text analysis on President Bollinger's Commencement addresses</h3>
 
-![IMG_full_set_Bollinger_sentiment-progress-graph](https://github.com/mf3321/text-analysis-president-bollinger/assets/112728848/3fc56cf5-37c2-4cf2-9774-8b4e651456b9)
+<p align="center" width="100%"><img width="700" alt="sentiment progress graph for President Bollinger's Commencement addresses" src="https://github.com/mf3321/text-analysis-president-bollinger/assets/112728848/3fc56cf5-37c2-4cf2-9774-8b4e651456b9.jpg"></p>
 
 This is a repository for an assignment for Gregory Eirich's graduate course Advanced Analytic Techniques, taken in Spring 2023 at Columbia University. The course TA was Xinge Zhang. The assignment was to compare a set of related texts.
 
