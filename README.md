@@ -9,6 +9,6 @@ I chose to compare the Commencement addresses of <a href="https://www.youtube.co
 
 The files here are for the "full" set of addresses. Analysis included creating a word cloud, obtaining word frequencies, measuring sentiment subjectivity and polarity, and plotting sentiment as graphs. I plan to add topic modeling to this analysis soon.
 
-![IMG_full_set_Bollinger_sentiment-polarity-subjectivity](https://github.com/mf3321/text-analysis-president-bollinger/assets/112728848/1cf8b6e0-a67d-429e-8a39-465485f331fc)
+<p align="center" width="100%"><img width="500" alt="sentiment polarity and subjectivity for President Bollinger's Commencement addresses" src="https://github.com/mf3321/text-analysis-president-bollinger/assets/112728848/1cf8b6e0-a67d-429e-8a39-465485f331fc.jpg"></p>
 
 <sup>© 2023 May Fung</sup>
