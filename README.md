@@ -1,7 +1,7 @@
 # text-analysis-president-bollinger
 <h3>Conducting text analysis on President Bollinger's Commencement addresses</h3>
 
-<p align="center"><img width="700" alt="sentiment progress graph for President Bollinger's Commencement addresses" src="https://github.com/mf3321/text-analysis-president-bollinger/assets/112728848/3fc56cf5-37c2-4cf2-9774-8b4e651456b9.jpg"></p>
+<p align="center" width="100%"><img width="700" alt="sentiment progress graph for President Bollinger's Commencement addresses" src="https://github.com/mf3321/text-analysis-president-bollinger/assets/112728848/3fc56cf5-37c2-4cf2-9774-8b4e651456b9.jpg"></p>
 
 This is a repository for an assignment for Gregory Eirich's graduate course Advanced Analytic Techniques, taken in Spring 2023 at Columbia University. The course TA was Xinge Zhang. The assignment was to compare a set of related texts.
 
@@ -9,6 +9,6 @@ I chose to compare the Commencement addresses of <a href="https://www.youtube.co
 
 The files here are for the "full" set of addresses. Analysis included creating a word cloud, obtaining word frequencies, measuring sentiment subjectivity and polarity, and plotting sentiment as graphs. I plan to add topic modeling to this analysis soon.
 
-<p align="center"><img width="300" alt="sentiment polarity and subjectivity for President Bollinger's Commencement addresses" src="https://github.com/mf3321/text-analysis-president-bollinger/assets/112728848/1cf8b6e0-a67d-429e-8a39-465485f331fc.jpg"></p>
+<p align="center" width="100%"><img width="100" alt="sentiment polarity and subjectivity for President Bollinger's Commencement addresses" src="https://github.com/mf3321/text-analysis-president-bollinger/assets/112728848/1cf8b6e0-a67d-429e-8a39-465485f331fc.jpg"></p>
 
 <sup>© 2023 May Fung</sup>
